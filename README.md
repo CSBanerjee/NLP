@@ -24,6 +24,6 @@ It also does the same thing as Stemming and bring the word to its root word but 
 
 This technique takes into account the importance of each word. Where as the bag of words considers all the words in a sentence has equal importance which is not correct
 
-### Term Frequency - Number of repetation of a word in a sentence / Number of total number of words in a sentence
+Term Frequency - **Number of repetation of a word in a sentence / Number of total number of words in a sentence**
 
-#### Inverse Document Frequency - log ( Number of Sentences / Number of Sentences containing the word)
+Inverse Document Frequency - **log ( Number of Sentences / Number of Sentences containing the word)**
